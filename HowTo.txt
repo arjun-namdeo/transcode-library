@@ -1,0 +1,18 @@
+
+1. Install DJV to your system		http://djv.sourceforge.net/djvInstall.html
+
+2. Install PySeq for your python    (from Python 2.7.9 it is inbuilt, install for only older versions)
+
+3. Open Config.py and make the default setting as per project requirement.
+
+4. Running on machines
+
+        For using in Linux and Mac
+            
+            python caller.py -h
+            
+        
+        For Windows
+        
+            C:\Python27\python.exe D:/TranscodeSystem/caller.py -h
+            
